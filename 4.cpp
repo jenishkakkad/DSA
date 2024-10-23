@@ -18,6 +18,7 @@ int main() {
     for (int i = 0; i < Row; i++) 
     {
         for (int j = 0; j < Col; j++) 
+        
         {
             cin >> array[i][j];
         }
