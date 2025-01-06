@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
     int box[5][5];
-    float sum=0,Ans;
+    float sum=0,Average;
     
     cout << "Enter the elements :" << endl;
     for (int i = 0; i < 5; i++) 
@@ -33,6 +33,9 @@ int main() {
         }
     }
 
+    Average=sum/5;
+
     cout << "sum is:"<<sum << endl;
+    cout << "Average is:"<<Average << endl;
 
 }
