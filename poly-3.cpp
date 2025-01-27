@@ -22,5 +22,5 @@ int main()
    daku s1;
    s1.chaku();
 //    s1.chaku(1);
-s1.chaku();
+s1.chaku(5);
 }

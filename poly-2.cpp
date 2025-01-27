@@ -23,4 +23,6 @@ int main()
    s1.chaku();
 //    s1.chaku(1);
 s1.chaku();
+
+
 }
